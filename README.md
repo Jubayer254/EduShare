@@ -5,7 +5,7 @@ EduShare is a system where we can share education. It is a sharing platform for 
 ## Developed Using
 * Programing Languages: HTML, CSS, JavaScript, JQuery, PHP
 * Database: MySQL
-* API: tawk.to is a live chat software.
+* API: tawk.to as a live chat software.
 
 ## Developed By
 * Jubayer Hossen  
@@ -16,87 +16,88 @@ EduShare is a system where we can share education. It is a sharing platform for 
 ## Features
 * User
   * Login/SignUp.
-  * Appoint a Doctor.
-  * Buy Medicine.
-  * Get Ambulance Service.
-  * Medical Test.
+  * Upload and View Lectures and Materials.
+  * Live Chat.
+  * Question Answer Forum.
+  * Give Quiz Exam.
+  * Career Guideline.
+  * Give Feedback.
   * Dynamic Search.
 * Admin
   * Login/SignUp.
-  * Add/Update/Delete Doctor List.
-  * Add/Update/Delete Medicine List.
-  * Add/Update/Delete Ambulance List.
-  * Add/Update/Delete Test List.
-  * View Doctor Appointments of User.
-  * View Orders of Medicine of User.
-  * Update the Delivery of Medicines.
-  * Update the Delivery of Tests.
-  * Update the Availablity of Ambulance.
+  * Authenticate Lecture Materials.
+  * Create New Admin.
+  * Add/Update/Delete Quiz.
+  * View Feedback.
+  * Add/Update/Delete Career Guideline.
+  * Live Chat
   * Dynamic Search.
 
 
 ## Snapshots
-* User
+* Viewer
 
-  * Login Page of User
+  * Index Page (Part - 1)
 
   <img src="Screenshots\1.png" alt="" style="width:1080px;"/>
 
-  * SignUp Page of User
+  * Index Page (Part - 1)
 
   <img src="Screenshots\2.png" alt="" style="width:1080px;"/>
 
-  * User Home Page
+  * Login Page
 
   <img src="Screenshots\3.png" alt="" style="width:1080px;"/>
 
-  * Doctor List Page
+  * SignUp Page
 
   <img src="Screenshots\4.png" alt="" style="width:1080px;"/>
+  
+* User
 
-  * Medicine List Page
+  * User Home Page
 
   <img src="Screenshots\5.png" alt="" style="width:1080px;"/>
 
-  * Ambulance List Page
+  * Lecture Materials Page
 
   <img src="Screenshots\6.png" alt="" style="width:1080px;"/>
 
-  * Test List Page
+  * Quiz Exam Page
 
   <img src="Screenshots\7.png" alt="" style="width:1080px;"/>
 
-  * User Cart Page
+  * Question Answer Forum Page
   
   <img src="Screenshots\8.png" alt="" style="width:1080px;"/>
 
-* Admin
-
-  * Login Page of Admin
+  * Career Guideline Page
 
   <img src="Screenshots\9.png" alt="" style="width:1080px;"/>
   
-  * SignUp Page of Admin
+* Admin
+  
+  * Admin Home Page
 
   <img src="Screenshots\10.png" alt="" style="width:1080px;"/>
 
-  * Admin Home Page
+  * Create New Admin Page
   
   <img src="Screenshots\11.png" alt="" style="width:1080px;"/>
   
-  * Doctor Data Entry Page
+  * Authenticate Lecture Materials Page
   
   <img src="Screenshots\12.png" alt="" style="width:1080px;"/>
   
-  * Medicine Data Entry Page
+  * View Feedback Page
   
   <img src="Screenshots\13.png" alt="" style="width:1080px;"/>
   
-  * Medical Test Data Entry Page
+  * Create Quiz Page
   
   <img src="Screenshots\14.png" alt="" style="width:1080px;"/>
   
-  * Ambulance Data Entry Page
+  * Create Career Guideline Page
   
   <img src="Screenshots\15.png" alt="" style="width:1080px;"/>
 
