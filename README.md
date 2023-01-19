@@ -41,7 +41,7 @@ EduShare is a system where we can share education. It is a sharing platform for 
 
   <img src="Screenshots\1.png" alt="" style="width:1080px;"/>
 
-  * Index Page (Part - 1)
+  * Index Page (Part - 2)
 
   <img src="Screenshots\2.png" alt="" style="width:1080px;"/>
 
