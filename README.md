@@ -30,7 +30,7 @@ EduShare is a system where we can share education. It is a sharing platform for 
   * Add/Update/Delete Quiz.
   * View Feedback.
   * Add/Update/Delete Career Guideline.
-  * Live Chat
+  * Live Chat.
   * Dynamic Search.
 
 
