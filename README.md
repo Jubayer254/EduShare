@@ -44,41 +44,41 @@ EduShare is a system where we can share education. It is a sharing platform for 
 
   * SignUp Page of User
 
-  <img src="Screenshots\3.png" alt="" style="width:1080px;"/>
+  <img src="Screenshots\2.png" alt="" style="width:1080px;"/>
 
   * User Home Page
 
-  <img src="Screenshots\5.png" alt="" style="width:1080px;"/>
+  <img src="Screenshots\3.png" alt="" style="width:1080px;"/>
 
   * Doctor List Page
 
-  <img src="Screenshots\6.png" alt="" style="width:1080px;"/>
+  <img src="Screenshots\4.png" alt="" style="width:1080px;"/>
 
   * Medicine List Page
 
-  <img src="Screenshots\7.png" alt="" style="width:1080px;"/>
+  <img src="Screenshots\5.png" alt="" style="width:1080px;"/>
 
   * Ambulance List Page
 
-  <img src="Screenshots\8.png" alt="" style="width:1080px;"/>
+  <img src="Screenshots\6.png" alt="" style="width:1080px;"/>
 
   * Test List Page
 
-  <img src="Screenshots\9.png" alt="" style="width:1080px;"/>
+  <img src="Screenshots\7.png" alt="" style="width:1080px;"/>
 
   * User Cart Page
   
-  <img src="Screenshots\10.png" alt="" style="width:1080px;"/>
+  <img src="Screenshots\8.png" alt="" style="width:1080px;"/>
 
 * Admin
 
   * Login Page of Admin
 
-  <img src="Screenshots\2.png" alt="" style="width:1080px;"/>
+  <img src="Screenshots\9.png" alt="" style="width:1080px;"/>
   
   * SignUp Page of Admin
 
-  <img src="Screenshots\4.png" alt="" style="width:1080px;"/>
+  <img src="Screenshots\10.png" alt="" style="width:1080px;"/>
 
   * Admin Home Page
   
