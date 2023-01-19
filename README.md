@@ -99,7 +99,7 @@ EduShare is a system where we can share education. It is a sharing platform for 
   
   * Create Career Guideline Page
   
-  <img src="Screenshots\15.png" alt="" style="width:1080px;"/>
+  <img src="Screenshots\16.png" alt="" style="width:1080px;"/>
 
 
 ## Compatibility 
