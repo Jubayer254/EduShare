@@ -5,7 +5,7 @@ EduShare is a system where we can share education. It is a sharing platform for 
 ## Developed Using
 * Programing Languages: HTML, CSS, Bootstrap, JavaScript, JQuery, PHP
 * Database: MySQL
-* API: tawk.to as a live chat software.
+* API: tawk.to as a live chat software
 
 ## Developed By
 * Jubayer Hossen  
