@@ -95,7 +95,7 @@ EduShare is a system where we can share education. It is a sharing platform for 
   
   * Create Quiz Page
   
-  <img src="Screenshots\17.png" alt="" style="width:1080px;"/>
+  <img src="Screenshots\18.png" alt="" style="width:1080px;"/>
   
   * Create Career Guideline Page
   
